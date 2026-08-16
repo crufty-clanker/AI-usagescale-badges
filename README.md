@@ -1,3 +1,5 @@
+![AI usage - LEVEL 4](./badges/flat-square-level-4-prompted.svg)
+
 # AI Usage Scale Badges
 
 Reusable markdown badges for the [AI Usage Scale](https://usagescale.org/) — an open standard for declaring how a work was made.
