@@ -1,4 +1,4 @@
-![AI usage - LEVEL 4](./badges/flat-square-level-4-prompted.svg)
+[![AI Usage Scale: Level 4 — Prompted](https://img.shields.io/badge/AI_Usage_Level-4_Prompted-e67e22?style=flat)](https://usagescale.org/4)
 
 # AI Usage Scale Badges
 
