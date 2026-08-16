@@ -1,17 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="259" height="20" role="img" aria-label="AI Usage Scale: Level 1 — Assisted">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="213" height="20" role="img" aria-label="AI Usage Scale: Level 1 — Assisted">
   <title>AI Usage Scale: Level 1 — Assisted</title>
-  <linearGradient id="a" x2="0" y2="100%">
-    <stop offset="0" stop-color="#bbb" stop-opacity=".1"/>
-    <stop offset="1" stop-color="#bbb" stop-opacity=".1"/>
-  </linearGradient>
-  <mask id="m"><rect width="259" height="20" rx="5" fill="#fff"/></mask>
-  <g mask="url(#m)">
-    <rect width="127" height="20" fill="#555"/>
-    <rect x="127" width="132" height="20" fill="#27ae60"/>
-    <rect width="259" height="20" fill="url(#a)"/>
+  <g shape-rendering="crispEdges">
+    <rect width="94" height="20" fill="#555"/>
+    <rect x="94" width="118" height="20" fill="#27ae60" rx="5"/>
   </g>
-  <g fill="#fff" text-anchor="start" font-family="Verdana,Genova,Tahoma, sans-serif" font-size="11" text-rendering="geometricPrecision">
-    <text x="6" y="15" transform="scale(.97)" aria-hidden="true">AI Usage Scale</text>
-    <text x="134" y="15" transform="scale(.97)" aria-hidden="true">Level 1 — Assisted</text>
+  <g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="11" text-rendering="geometricPrecision">
+    <text x="47" y="15" aria-hidden="true">AI Usage Scale</text>
+    <text x="154" y="15" aria-hidden="true">Level 1 — Assisted</text>
   </g>
 </svg>
